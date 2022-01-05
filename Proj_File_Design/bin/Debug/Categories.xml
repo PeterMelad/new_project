@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <sport>
+    <keyword>football</keyword>
+    <keyword>basketball</keyword>
+    <keyword>tenis</keyword>
+  </sport>
+  <music>
+    <keyword>top</keyword>
+    <keyword>non</keyword>
+  </music>
+  <string>
+    <keyword>null</keyword>
+    <keyword>yep</keyword>
+  </string>
+  <fil>
+    <keyword>txt</keyword>
+    <keyword>TXT</keyword>
+    <keyword>language</keyword>
+    <keyword>characters</keyword>
+    <keyword>file</keyword>
+  </fil>
+  <home>
+    <keyword>disk</keyword>
+  </home>
+  <school>
+    <keyword>disk</keyword>
+  </school>
+  <class>
+    <keyword>disks</keyword>
+    <keyword>room</keyword>
+    <keyword>students</keyword>
+  </class>
+</File>
